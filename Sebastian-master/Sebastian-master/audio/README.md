@@ -1,2 +1,0 @@
-
-Audio files (.wav) format

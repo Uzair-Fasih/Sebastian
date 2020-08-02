@@ -1,1 +1,0 @@
-Python Intent Recognizing Module
