@@ -2,7 +2,7 @@ wikipedia==1.4.0
 termcolor==1.1.0
 colorama==0.3.9
 pyttsx3==2.6
-requests==2.20.0
+requests==2.31.0
 autocorrect==0.3.0
 wolframalpha==3.0
 Unidecode==0.04.21
